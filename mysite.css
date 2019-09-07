@@ -145,7 +145,15 @@ font-family: 'Raleway', sans-serif;
   font-family: 'Abel', sans-serif;
   font-size: 25px;
 }
-
+#section7    h1{
+  font-family: 'Abel', sans-serif;
+  font-size: 30px;
+}
+#section7   p{
+  font-family: 'Abel', sans-serif;
+  font-size: 25px;
+  color: white;
+}
 #name
 {
 
